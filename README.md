@@ -1,4 +1,4 @@
-# CURSO DE SCRAPINGHUB 🚀
+# CURSO DE SCRAPY 🚀
 ##### 📦 Actualizado al:  22/09/2020
 
 ## 1 Conocimiento general 📋
